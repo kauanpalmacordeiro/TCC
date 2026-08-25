@@ -1,0 +1,20 @@
+BET — CRÉDITOS / ÁUDIO DA VERSÃO REFINO 01
+
+MÚSICA AMBIENTE
+Para eliminar falhas de carregamento e CORS, a seleção de trilhas desta versão é 100% local.
+As 15 opções do menu ficam em:
+assets/audio/music/
+
+As faixas foram preparadas como variações/mixes locais da trilha ambiente que já acompanhava o projeto (assets/audio/ambient_long.ogg), com diferenças de equalização, velocidade, espacialidade e efeitos leves. Portanto, nenhuma opção do seletor depende de conexão com a internet.
+
+EFEITOS LOCAIS
+assets/audio/spin.ogg
+assets/audio/stop1.ogg
+assets/audio/stop2.ogg
+assets/audio/stop3.ogg
+assets/audio/click.ogg
+assets/audio/win_soft.ogg
+assets/audio/win_big.ogg
+assets/audio/circuit.ogg
+assets/audio/glass_break.ogg
+assets/audio/upgrade.ogg
