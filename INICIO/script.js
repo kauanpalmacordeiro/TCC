@@ -10,7 +10,7 @@ function abrirTela(lado) {
     tela.classList.add(lado === "tcc" ? "abrir-tcc" : "abrir-jogar");
 
     const destino = lado === "tcc" ? "../TCC/tcc.html" : "../JOGAR/jogar.html";
-
+ 
     setTimeout(() => {
         window.location.href = destino;
     }, reduceMotion ? 80 : 820);
